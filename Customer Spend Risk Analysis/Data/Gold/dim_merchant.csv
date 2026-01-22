@@ -1,0 +1,8 @@
+"merchant";"category";"risk_score"
+"Amazon";"Unknown";0.0
+"Flipkart";"Unknown";1.0
+"Walmart";"Ecommerce";0.0
+"Myntra";"Unknown";0.0
+"Swiggy";"Unknown";0.0
+"Zomato";"Food";0.0
+"Unknown";"Retail";0.0

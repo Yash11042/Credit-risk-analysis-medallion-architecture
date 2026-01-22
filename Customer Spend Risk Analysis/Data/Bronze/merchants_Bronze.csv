@@ -1,0 +1,8 @@
+merchant,category,risk_score
+Amazon,,0.12
+Flipkart,,0.57
+Walmart,Ecommerce,0.17
+Myntra,,0.21
+Swiggy,,0.25
+Zomato,Food,0.4
+Unknown,Retail,0.46

@@ -149,8 +149,4 @@ The project was developed using **Agile Scrum**, broken into multiple sprints:
 
 ---
 
-## 👤 Author
-**Yash Tiwari**  
-Data Analyst | SQL | Power BI | Python  
 
-📍 Bhopal, India
